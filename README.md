@@ -11,7 +11,7 @@ To install requirements, run the following command on your terminal:
 pip install -r requirements.txt
 ```
 
-Also, since some files (datadir/*.pkl.gz, graphs/scal_*.txt) exceed GitHub's file size limit, please download the files via [Dropbox Link](https://bit.ly/3e9UnLb).
+Also, since some files (datadir/\*.pkl.gz, graphs/scal_\*.txt) exceed GitHub's file size limit, please download the files via [Dropbox Link](https://bit.ly/3e9UnLb).
 
 ## Generating training data
 
